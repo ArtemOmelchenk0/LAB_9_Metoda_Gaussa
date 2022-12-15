@@ -7,3 +7,6 @@ test1 : all
 test2 : all
 	bin/gauss dane/A_ dane/b_
 
+test3 : all
+	bin/gauss dane/A_2 dane/b_2
+
